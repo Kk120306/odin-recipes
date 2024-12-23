@@ -17,3 +17,8 @@ ul{
     padding: 0;
     text-align: center;
 }
+
+li{
+    display: inline;
+    margin-right: 10px;
+}
